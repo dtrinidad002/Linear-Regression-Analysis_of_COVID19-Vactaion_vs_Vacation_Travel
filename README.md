@@ -1,5 +1,5 @@
 # COVID_19-Vactaion_Vs_Vacation-Travel
-### Final project for the MIDS-W205 "Statistics for Data Science" course (Summer 2021)
+### Final project for the MIDS-W203 "Statistics for Data Science" course (Summer 2021)
 
 ## Project scope: 
 The agency head of toursim hired my team to perform a linear regression study on vacations taken during the summer of 2021. 
